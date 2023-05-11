@@ -1,0 +1,15 @@
+button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.on {
+  color: #0d4ae3;
+}
+.off {
+  color: #ccc;
+}
+#div {
+  background: rgba(203, 224, 203, 0.368);
+}
